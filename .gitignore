@@ -1,0 +1,9 @@
+# 테스트 산출물 (대용량 영상/이미지/zip) — 저장소에 포함하지 않음
+# 원본은 Jira SOLUTION-11887 에 보관: Komico_Template_260528.mars 의 UI 테스트 리소스
+/20260528_코미코AI_UI테스트/
+
+# OS / 임시 파일
+Thumbs.db
+.DS_Store
+desktop.ini
+~$*

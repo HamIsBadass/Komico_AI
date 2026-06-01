@@ -1,0 +1,9 @@
+# Git LFS 추적 대상 (대용량 바이너리)
+*.mars filter=lfs diff=lfs merge=lfs -text
+*.mp4  filter=lfs diff=lfs merge=lfs -text
+*.zip  filter=lfs diff=lfs merge=lfs -text
+
+# 텍스트 정규화 방지 (바이너리 보호)
+*.xlsx binary
+*.png  binary
+*.jpg  binary
